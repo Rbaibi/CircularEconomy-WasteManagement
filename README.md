@@ -20,11 +20,11 @@ There is lack of information of the return on investment ([ROI](https://www.meta
 
 ## Deliverables
 The participating team is asked to conduct the necessary research and build a prototype of a system able to:
-Investigate the suggested research questions and any additional relevant ones
-Find patterns in the historical and real-time data
-Simulate different future scenarios (trade-off analysis) 
-Calculate the financial projections of the various simulated scenarios for the local government
-Deliver a report on the findings and opportunity maps based on the results.
+- Investigate the suggested research questions and any additional relevant ones
+- Find patterns in the historical and real-time data
+- Simulate different future scenarios (trade-off analysis) 
+- Calculate the financial projections of the various simulated scenarios for the local government
+- Deliver a report on the findings and opportunity maps based on the results.
 
 ## Stakeholders
 - Households
