@@ -9,16 +9,14 @@ There is lack of information of the return on investment ([ROI](https://www.meta
 - Can you detect the streets where people are NOT separating wastes into containers and what is their demographic (age, household type)? What new recycling activities, alternative waste collection methods, waste transport logistics can you think of to improve waste management in Zuid-Holland?
 - PZH is researching possibilities for construction with wood and other waste material flows for housing and buildings. A circular construction logistics hub is proposed that includes transport of waste materials via ship to polders. Can you help policy makers plan and monitor the sourcing, logistics and use of this these waste streams in construction?
 - PZH is part of the Biobased Delta which aims to use plant material and biomass in replacement of fossil based materials. Due to the number of greenhouses and high tech horticulture, PZH is a natural exploration environment for the transition to the biobased economy. How can policymakers measure and map out the biobased initiatives and their overall contribution towards the higher Circular Economy goals?
-
-#### Others
-What is the efficiency and financial gains or losses of implementing various policies taking into consideration factors like but not limiting to:
-- Recycling policies of different municipalities
-- Import and Export of waste
-- Industrial vs. Living areas
-- Houses vs. Apartment buildings
-- Infrastructure and logistics analysis of various waste collection activities
-- Urban planning of different cities
-- What factory is producing what type of waste?
+- What is the efficiency and financial gains or losses of implementing various policies taking into consideration factors like but not limiting to:
+     - Recycling policies of different municipalities
+     - Import and Export of waste
+     - Industrial vs. Living areas
+     - Houses vs. Apartment buildings
+     - Infrastructure and logistics analysis of various waste collection activities
+     - Urban planning of different cities
+     - What factory is producing what type of waste?
 
 ## Deliverables
 The participating team is asked to conduct the necessary research and build a prototype of a system able to:
