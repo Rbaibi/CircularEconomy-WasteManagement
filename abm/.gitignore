@@ -1,0 +1,23 @@
+
+.DS_Store
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+
+# ide
+target/
+.idea/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+
+# Environments
+.env
+.venv
+
+#exclude data
+data/

@@ -1,0 +1,10 @@
+Hi angela,
+
+I had used construction_started bag file for giving u number of construction sites = 3185
+And total square meters for 2 columns with oppervlakt and oppervla_1
+Total oppervlakt=638362
+total oppervla_1 = 1025034
+And i converted the file to geoxml file u can use it
+
+kind regards,
+jyothsna

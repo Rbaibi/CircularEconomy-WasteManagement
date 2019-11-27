@@ -1,0 +1,10 @@
+Hi angela,
+
+I had used demolition_permit_granted bag file for giving u number of construction sites of permit granted = 4047
+And total square meters for 2 columns with oppervlakt and oppervla_1
+Total oppervlakt = 1346172
+total oppervla_1 = 1502713
+And i converted the file to geoxml file u can use it
+
+kind regards,
+jyothsna
